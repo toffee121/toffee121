@@ -39,3 +39,4 @@ I am extremely hard working, committed to efficiency and results. Successfully i
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,angular,nodejs,cs,git,materialui,azure)](https://skillicons.dev)
     
 ---
+
