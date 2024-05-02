@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h2> 
   <div>
-    <h1>I'm Filip, Web & Mobile Developer<h1>
+    <h1>I'm Toffee, Web & Mobile Developer<h1>
     <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="200"/>
    </div>
   <div id="badges">
@@ -41,16 +41,5 @@ I am extremely hard working, committed to efficiency and results. Successfully i
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,angular,nodejs,cs,git,materialui,azure)](https://skillicons.dev)
     
 ---
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laststonedjs&theme=neon&border_radius=2&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)  
-    
----
-    
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
