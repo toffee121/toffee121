@@ -1,16 +1,56 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h2>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+  </h2> 
+  <div>
+    <h1>I'm Filip, Web & Mobile Developer<h1>
+    <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="200"/>
+   </div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/filip-sarovic-4376a61a1">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/FilipSarov86171">
+     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=social" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+    </br>
+<div align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="550" height="300" />
+</div>
+    
+---
 
-<!--
-**toffee121/toffee121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me :  
 
-Here are some ideas to get you started:
+I am extremely hard working, committed to efficiency and results. Successfully identified, diagnosed and fixed website issues. Resolved web app issues based on external and internal reports. Passionate about tech, product, and sharing knowledge through a healthy and instructive form of community.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend and finding creative functional solutions for clients through analysis and recognition issues in development.
+    
+- :seedling: Exploring Technical Content Writing.
+    
+- :zap: In my free time, I play video and board games, read comics and read tech articles.
+                                  
+---
+    
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,angular,nodejs,cs,git,materialui,azure)](https://skillicons.dev)
+    
+---
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laststonedjs&theme=neon&border_radius=2&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)  
+    
+---
+    
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
